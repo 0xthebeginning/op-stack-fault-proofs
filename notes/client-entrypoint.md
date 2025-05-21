@@ -5,7 +5,7 @@ This is the main entry point to the op-program client. It sets up the runtime, c
 
 ## Key Concepts
 - Uses L1/L2 preimage oracles for resolving claims
-- Supports both interop and non-interop execution
+- Supports both interop and non-interop execution(Stage 2 or stage 1)
 - Logs success/failure of the claim verification
 
 ## Next Questions
